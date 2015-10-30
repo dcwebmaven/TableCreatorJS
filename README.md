@@ -1,2 +1,2 @@
 # TableCreatorJS
-This project creates a table comprised of two rows and two columns.
+This project creates a table composed of two rows and two columns.
